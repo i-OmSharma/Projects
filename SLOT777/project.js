@@ -4,7 +4,7 @@
 // 4.Spin the slot machine
 // 5.check is the user won
 // 6.giving user their winings
-// 7.Play again
+// 7.Play again.
 
 // Imports,Librarys
 
